@@ -9,7 +9,7 @@ Within list, each value is considered a **node**, and each node is connected wit
 
 ![linked list](/images/LLdrawio.png)
 
-### [Types of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript)
+### [Types of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript/linked-list)
 
 There are two kinds of linked lists, **singly linked lists** and **doubly linked lists**. Both work very similarly, but the difference is in singly linked lists each node has a **single pointer** that indicates the **next node** on the list. While in doubly linked lists, each node has **two pointers**, one pointing to the **next node**, another pointing to the **previous node**.
 
