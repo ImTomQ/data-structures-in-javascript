@@ -32,6 +32,14 @@ const list = {
 
 ![linked list](/images/LLdrawio.png)
 
+### [An advantage of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript#an-advantage-of-linked-lists)
+
+Nodes can easily be removed or added from a linked list without reorganizing the entire the data structure. ***This is advantage it has over arrays.***
+
+### [Disadvantage of Linked lists](https://github.com/ImTomQ/data-structures-in-javascript#disadvantage-of-linked-lists)
+
+- ***Search operations are slow in linked lists***. 
+
 ### [Types of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript#types-of-linked-lists)
 
 There are two kinds of linked lists, **singly linked lists** and **doubly linked lists**. Both work very similarly, but the difference is in singly linked lists each node has a **single pointer** that indicates the **next node** on the list. While in doubly linked lists, each node has **two pointers**, one pointing to the **next node**, another pointing to the **previous node**.
@@ -40,7 +48,8 @@ There are two kinds of linked lists, **singly linked lists** and **doubly linked
 
 ###### [In singly linked list each node has a single pointer](https://github.com/ImTomQ/data-structures-in-javascript#in-singly-linked-list-each-node-has-a-single-pointer)
 
-Reference:
-https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/
-https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/#linked-lists
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code
+**_Reference:_**
+
+- https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/ <br />
+- https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/#linked-lists <br />
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code
