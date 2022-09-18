@@ -1,4 +1,4 @@
-## [Linked List Data Structure](https://github.com/ImTomQ/data-structures-in-javascript#linked-list-data-structure)
+## [Linked List Data Structure](https://github.com/ImTomQ/data-structures-in-javascript/tree/develop/linked-lists#linked-list-data-structure)
 
 > Linked lists are a type of data structure that store values in the form of a list.<br />
 
@@ -30,22 +30,22 @@ const list = {
 
 ![linked list](/images/LLdrawio.png)
 
-### [An advantage of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript#an-advantage-of-linked-lists)
+### [An advantage of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript/tree/develop/linked-lists#an-advantage-of-linked-lists)
 
 Nodes can easily be removed or added from a linked list without reorganizing the entire data structure. **_This is advantage it has over arrays._**
 
-### [Disadvantage of Linked lists](https://github.com/ImTomQ/data-structures-in-javascript#disadvantage-of-linked-lists)
+### [Disadvantage of Linked lists](https://github.com/ImTomQ/data-structures-in-javascript/tree/develop/linked-lists#disadvantage-of-linked-lists)
 
 - **_Search operations are slow in linked lists_**. Unlike arrays, random access of data elements is not allowed. Nodes are accessed sequentially starting from the first node.
 - It uses more memory than arrays because of the storage of the pointers.
 
-### [Types of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript#types-of-linked-lists)
+### [Types of Linked Lists](https://github.com/ImTomQ/data-structures-in-javascript/tree/develop/linked-lists#types-of-linked-lists)
 
 There are two kinds of linked lists, **singly linked lists** and **doubly linked lists**. Both work very similarly, but the difference is in singly linked lists each node has a **single pointer** that indicates the **next node** on the list. While in doubly linked lists, each node has **two pointers**, one pointing to the **next node**, another pointing to the **previous node**.
 
 ![single linked list](/images/single-linked-list.png)
 
-###### [In singly linked list each node has a single pointer](https://github.com/ImTomQ/data-structures-in-javascript#in-singly-linked-list-each-node-has-a-single-pointer)
+###### [In singly linked list each node has a single pointer](https://github.com/ImTomQ/data-structures-in-javascript/tree/develop/linked-lists#in-singly-linked-list-each-node-has-a-single-pointer)
 
 ### Implementing a List Node in JavaScript
 
